@@ -9,13 +9,15 @@ description = "A brief description of what this project does"
 readme = "README.md"
 requires-python = ">=3.8"
 authors = [
-    { name = "Your Name", email = "your.email@address.com" },
+    { name = "Powei Lin", email = "poweilin1994@gmail.com" },
 ]
 classifiers = [
     "License :: BSD",
 ]
 # Optional: runtime dependency specification
-# dependencies = [ "cryptography >=41.0" ]
+dependencies = [
+    "numpy"
+]
 
 [project.urls]
 Homepage = "https://github.com/your/project"
