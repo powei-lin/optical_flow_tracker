@@ -3,7 +3,7 @@ requires = ["scikit-build-core >=0.4.3", "nanobind >=1.3.2"]
 build-backend = "scikit_build_core.build"
 
 [project]
-name = "my_ext"
+name = "my-ext"
 version = "0.0.1"
 description = "A brief description of what this project does"
 readme = "README.md"
